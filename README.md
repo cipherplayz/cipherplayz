@@ -5,4 +5,4 @@ class CipherPlayz():
       self.name = "CipherPlayz"
       self.age = 17
       self.location = "Internet"
-      self.contact = "https://discord.gg/playz"```
+      self.contact = "https://discord.gg/playz"
