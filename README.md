@@ -1,6 +1,6 @@
 ```from github import README
 
-class cipherplayz(Readme):
+class CipherPlayz():
     def __init__(self):
       self.name = "CipherPlayz"
       self.age = 17
